@@ -6,10 +6,7 @@ AgroSmart is a **bilingual web platform (English + తెలుగు)** that br
 
 ---
 
-## 🔗 Live Preview
-_coming soon_ (You can add GitHub Pages or deployment link here)
 
----
 
 ## 📌 Features
 
