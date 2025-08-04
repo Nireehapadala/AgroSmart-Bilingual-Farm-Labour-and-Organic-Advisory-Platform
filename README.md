@@ -24,16 +24,8 @@ _coming soon_ (You can add GitHub Pages or deployment link here)
 
 ---
 
-## 📁 Folder Structure
-AgroSmart/
-├── index.html # Home Page
-├── login.html # Login Page
-├── signup.html # Sign Up Page
-├── contact.html # Contact Us Page
-├── about.html # About Us Page
-└── style.css # Styling for all pages
-
 ✨ Project by
+
 Nireeha Padala – B.Tech, CSE | 3rd Year
 
 Built as part of academic innovation project
