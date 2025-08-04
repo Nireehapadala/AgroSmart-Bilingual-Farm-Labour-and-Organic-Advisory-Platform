@@ -26,6 +26,9 @@ _coming soon_ (You can add GitHub Pages or deployment link here)
 
 ✨ Project by
 
-Nireeha Padala – B.Tech, CSE | 3rd Year
+Nireeha – B.Tech, CSE | 3rd Year
+Irfana - B.Tech, CSE | 3rd Year
+Prasanna - B.Tech, CSE | 3rd Year
+Nihari - B.Tech, CSE | 3rd Year
 
 Built as part of academic innovation project
